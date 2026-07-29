@@ -1,6 +1,9 @@
 # 💫 About Me:
-# 👋 Hi, I'm Jainesh Patel<br><br>I'm an engineering student passionate about building intelligent software that combines Artificial Intelligence, Machine Learning, Data Science, and Software Engineering to solve real-world problems.<br><br>I enjoy designing scalable applications, exploring data-driven solutions, and continuously improving my problem-solving skills through Data Structures & Algorithms. My projects focus on transforming ideas into practical products while emphasizing clean code, thoughtful architecture, and meaningful user experiences.<br><br>Currently, I'm strengthening my expertise in Python, SQL, Machine Learning, Backend Development, and System Design while building projects that bridge software engineering with intelligent systems.<br><br>I believe technology creates the greatest impact when it solves real problems, and my goal is to contribute to products that are innovative, scalable, and genuinely useful.<br><br>---<br><br>### 🚀 Current Focus<br><br>- 🤖 Artificial Intelligence & Machine Learning<br>- 📊 Data Science & Analytics<br>- 💻 Software Engineering<br>- ⚙️ Backend Development<br>- 🧠 Data Structures & Algorithms<br>- ☁️ Cloud & Modern Development Tools<br><br>*"Always learning. Always building. Always improving."*
+# 👋 Hi, I'm Jainesh Patel
 
+I enjoy building intelligent software that combines Artificial Intelligence, Machine Learning, Data Science, and Software Engineering to solve real-world problems.
+
+Currently focused on Python, DSA, SQL, Backend Development, and AI while building scalable, data-driven applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jainesh-patel73/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaineshsmail77gmail.com) 
