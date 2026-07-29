@@ -73,6 +73,7 @@ I'm passionate about understanding how systems work—from writing efficient cod
 
 ## 📫 Connect With Me
 
-LinkedIn:https://www.linkedin.com/in/jainesh-patel73/ • Email:jaineshsmail77gmail.com
+LinkedIn:https://www.linkedin.com/in/jainesh-patel73/ 
+Email:jaineshsmail77gmail.com
 
 
