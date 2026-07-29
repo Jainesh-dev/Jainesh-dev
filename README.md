@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Jainesh Patel
 
 I enjoy building intelligent software that combines Artificial Intelligence, Machine Learning, Data Science, and Software Engineering to solve real-world problems.
